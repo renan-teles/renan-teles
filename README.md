@@ -1,4 +1,4 @@
-##  👋  Olá, Seja Bem-Vindo(a)!
+##  👋  Olá, Seja Bem-Vindo!
 
 ### - 😺 Sobre Mim
 #### Meu nome é Renan, tenho 19 anos e sou um entusiasta da tecnologia e do desenvolvimento web. Estudo programação há pouco mais de um ano e meio, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. 
