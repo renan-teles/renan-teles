@@ -1,10 +1,10 @@
 ##  👋  Olá, Seja Bem-Vindo(a)!
 
 ### - 😺 Sobre Mim
-##### Meu nome é Renan, tenho 19 anos e sou um entusiasta da tecnologia e do desenvolvimento web. Moro no Brasil e estudo programação há pouco mais de um ano e meio, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. 
+#### Meu nome é Renan, tenho 19 anos e sou um entusiasta da tecnologia e do desenvolvimento web. Moro no Brasil e estudo programação há pouco mais de um ano e meio, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. 
 
 ### - 💪 O Que Me Motiva
-##### Adoro criar soluções para problemas reais usando linguagens de programação. Tenho certeza que a tecnologia tem o poder de impulsionar a inovação, resolver desafios complexos e impactar positivamente a vida das pessoas. Por isso, estou sempre experimentando, aprendendo e desenvolvendo projetos que possam fazer a diferença.
+#### Adoro criar soluções para problemas reais usando linguagens de programação. Tenho certeza que a tecnologia tem o poder de impulsionar a inovação, resolver desafios complexos e impactar positivamente a vida das pessoas. Por isso, estou sempre experimentando, aprendendo e desenvolvendo projetos que possam fazer a diferença.
 
 <!--
 <div>
