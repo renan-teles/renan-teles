@@ -6,9 +6,13 @@
 ### - 💪 O Que Me Motiva
 #### Adoro criar soluções para problemas reais usando linguagens de programação. Tenho certeza que a tecnologia tem o poder de impulsionar a inovação, resolver desafios complexos e impactar positivamente a vida das pessoas. Por isso, estou sempre experimentando, aprendendo e desenvolvendo projetos que possam fazer a diferença.
 
+
+<div>
+  <a href="www.linkedin.com/in/renan-teles-3a1290355" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+</div>
+
 <!--
 <div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 </div>
 -->
