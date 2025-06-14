@@ -40,9 +40,7 @@
   
   <img align="center" alt="Renan-nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
 
-  <!--
   <img align="center" alt="Renan-java" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-  -->
   
   <img align="center" alt="Renan-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   
