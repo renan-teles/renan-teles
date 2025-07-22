@@ -51,7 +51,7 @@
 
 ### 📊 Estatísticas
 <div style="display: inine_block">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dark"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=renan-teles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180" align="top" src="https://github-readme-stats.vercel.app/api?username=renan-teles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
