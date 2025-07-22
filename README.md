@@ -45,14 +45,13 @@
   
   <img align="center" alt="Renan-springBoot" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
   <img align="center" alt="Renan-mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  
 </div>
 
 ##
 
 ### 📊 Estatísticas
-<div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dark"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=renan-teles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div style="display: inine_block">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dark"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=renan-teles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
