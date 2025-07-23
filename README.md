@@ -43,7 +43,7 @@
   <img align="center" alt="Renan-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   -->
   
-  <img align="center" alt="Renan-springBoot" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Renan-springBoot" height="65" width="65" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"/>
   <img align="center" alt="Renan-mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
