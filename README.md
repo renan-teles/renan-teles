@@ -22,7 +22,6 @@
 
 ### 🧑‍💻 Linguagens e Tecnologias do Meu Dia a Dia
 <div style="display: inine_block">
-
   <img align="center" alt="Renan-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Renan-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Renan-angular" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>&nbsp;&nbsp;&nbsp;
@@ -35,8 +34,14 @@
 ##
 
 ### 📊 Estatísticas
+<img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dracula"/>
+
+##
+
+<!--
+### 📊 Estatísticas
 <div style="display: inine_block">
   <img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dracula"/>
   <img height="180" align="top" src="https://github-readme-stats.vercel.app/api?username=renan-teles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
