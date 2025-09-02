@@ -22,19 +22,20 @@
 
 ### 🧑‍💻 Linguagens e Tecnologias do Meu Dia a Dia
 <div style="display: inine_block">
+  <!--
   <img align="center" alt="Renan-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Renan-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Renan-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  -->
   
-  <!--
+  <img align="center" alt="Renan-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Renan-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-   -->
+   
   <!--
   <img align="center" alt="Renan-reactjs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   -->
- <!--
-  <img align="center" alt="Renan-angular" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
-  -->
+ 
+  <img align="center" alt="Renan-angular" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>
+  
 
   <img align="center" alt="Renan-nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
   <img align="center" alt="Renan-java" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
