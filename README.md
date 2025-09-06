@@ -7,15 +7,9 @@
 #### Adoro criar soluções para problemas reais usando linguagens de programação. Tenho certeza que a tecnologia tem o poder de impulsionar a inovação, resolver desafios complexos e impactar positivamente a vida das pessoas. Por isso, estou sempre experimentando, aprendendo e desenvolvendo projetos que possam fazer a diferença.
 
 
-  <a href="https://www.linkedin.com/in/renan-teles-3a1290355">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-teles-3a1290355)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanlopesteles2@gmail.com)
 
-
- <a href="mailto:renanlopesteles2@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   
 ##
 
