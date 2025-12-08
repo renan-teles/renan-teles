@@ -24,12 +24,13 @@
   <img align="center" alt="Renan-mysql" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
-##
 
+<!--
+##
 ### 📊 Estatísticas
 <img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dark"/>
-
 ##
+-->
 
 <!--
 ### 📊 Estatísticas
