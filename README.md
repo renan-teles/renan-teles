@@ -1,42 +1,33 @@
-##  👋  Olá, Boas-Vindas!
+# 👋 Olá, seja bem-vindo!
 
-### - 😺 Sobre Mim
-#### Meu nome é Renan, tenho 20 anos e sou um entusiasta da tecnologia. Estudo programação há pouco mais de um ano e meio, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. 
+## 😺 Sobre mim
+Meu nome é **Renan**, tenho **20 anos** e sou um entusiasta da tecnologia.  
+Estudo programação há pouco mais de **um ano e meio**, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias no desenvolvimento de soluções práticas e eficientes.
 
-### - 💪 O Que Me Motiva
-#### Adoro criar soluções para problemas reais usando linguagens de programação. Tenho certeza que a tecnologia tem o poder de impulsionar a inovação, resolver desafios complexos e impactar positivamente a vida das pessoas. Por isso, estou sempre experimentando, aprendendo e desenvolvendo projetos que possam fazer a diferença.
+## 💪 O que me motiva
+Gosto de criar soluções para **problemas reais** usando programação.  
+Acredito que a tecnologia tem o poder de **impulsionar a inovação**, resolver desafios complexos e **impactar positivamente a vida das pessoas**.  
+Por isso, estou sempre aprendendo, experimentando e desenvolvendo projetos que façam a diferença.
 
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-teles-3a1290355)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanlopesteles2@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-teles-3a1290355)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanlopesteles2@gmail.com)
+## 🛠️ Tecnologias & Ferramentas
+### 💻 Linguagens e Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-  
-##
-
-### 🧑‍💻 Linguagens e Tecnologias do Meu Dia a Dia
-<div style="display: inine_block">
-  <img align="center" alt="Renan-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Renan-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Renan-angular" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/>&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Renan-nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img align="center" alt="Renan-java" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Renan-springBoot" height="65" width="65" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"/>
-  <img align="center" alt="Renan-mysql" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Renan-docker" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-</div>
-
-
-<!--
-##
-### 📊 Estatísticas
-<img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dark"/>
-##
--->
+### 🗄️ Banco de Dados & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
-### 📊 Estatísticas
-<div style="display: inine_block">
-  <img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="180" align="top" src="https://github-readme-stats.vercel.app/api?username=renan-teles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 📊 Estatísticas do GitHub
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teles&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=renan-teles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 -->
