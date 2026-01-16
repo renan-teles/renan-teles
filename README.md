@@ -5,7 +5,7 @@ Meu nome é **Renan**, tenho **20 anos** e sou um entusiasta da tecnologia.
 Estudo programação há pouco mais de **um ano e meio**, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias no desenvolvimento de soluções práticas e eficientes.
 
 ## 💪 O que me motiva
-Gosto de criar soluções para **problemas reais** usando programação acreditando sempre que a tecnologia tem o poder de **impulsionar a inovação**, resolver desafios complexos e **impactar positivamente a vida das pessoas**.  
+Gosto de criar soluções para **problemas reais** usando programação acreditando que a tecnologia tem o poder de **impulsionar a inovação**, resolver desafios complexos e **impactar positivamente a vida das pessoas**.  
 Por isso, estou sempre aprendendo, experimentando e desenvolvendo projetos que façam a diferença.
 
 ## 🌐 Conecte-se comigo
