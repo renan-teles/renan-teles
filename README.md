@@ -1,7 +1,7 @@
 ##  👋  Olá, Boas-Vindas!
 
 ### - 😺 Sobre Mim
-#### Meu nome é Renan, tenho 19 anos e sou um entusiasta da tecnologia. Estudo programação há pouco mais de um ano e meio, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. 
+#### Meu nome é Renan, tenho 20 anos e sou um entusiasta da tecnologia. Estudo programação há pouco mais de um ano e meio, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. 
 
 ### - 💪 O Que Me Motiva
 #### Adoro criar soluções para problemas reais usando linguagens de programação. Tenho certeza que a tecnologia tem o poder de impulsionar a inovação, resolver desafios complexos e impactar positivamente a vida das pessoas. Por isso, estou sempre experimentando, aprendendo e desenvolvendo projetos que possam fazer a diferença.
@@ -21,7 +21,8 @@
   <img align="center" alt="Renan-nodejs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
   <img align="center" alt="Renan-java" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Renan-springBoot" height="65" width="65" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"/>
-  <img align="center" alt="Renan-mysql" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img align="center" alt="Renan-mysql" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Renan-docker" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 </div>
 
 
